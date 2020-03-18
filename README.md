@@ -29,5 +29,11 @@ The tutorials can be found at https://www.youtube.com/watch?v=S8hifIrDh-g&list=P
 > [reference]: https:// "title"
 
 ---
+> emoji
+:smile:     I am happy
 
-:smile: emoji
+:parking:   I want to park my car
+
+:man:       I am a man
+
+:woman:     I am a woman
