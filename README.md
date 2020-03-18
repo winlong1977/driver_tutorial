@@ -1,5 +1,8 @@
 Many thanks to SolidusCode for sharing his knowledge on how to program & build Linux driver.
-The tutorials can be found at https://www.youtube.com/watch?v=S8hifIrDh-g&list=PL16941B715F5507C5
+The tutorials can be found at {%youtube https://www.youtube.com/watch?v=S8hifIrDh-g&list=PL16941B715F5507C5 %}
+
+[![Alt-ImageText](https://upload.wikimedia.org/wikipedia/commons/c/c7/Change_with_Kd.png)](https://www.youtube.com/watch?v=q3hONNn4UwM)
+
 
 # Title 1
 
