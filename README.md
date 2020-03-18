@@ -22,7 +22,6 @@ The tutorials can be found at https://www.youtube.com/watch?v=S8hifIrDh-g&list=P
 
 
 
-
 | Column 1 | Column 2 | Column 3 | hjjh | hjh   |
 | -------- | -------- | -------- |:----:| ----- |
 | Text     | Text     | Text     |      | gvhgv |
@@ -30,3 +29,5 @@ The tutorials can be found at https://www.youtube.com/watch?v=S8hifIrDh-g&list=P
 > [reference]: https:// "title"
 
 ---
+
+:smile: emoji
